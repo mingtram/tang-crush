@@ -1,19 +1,15 @@
 const CONFIG = {
     introTitle: 'Hii Nhóc Con !',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Lại là mintraxing đâyyyyyyyy`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    title: 'Em biết nhiều lúc em trách anh vô cớ 😙',
+    desc: 'Em cũng biết nhiều lúc em nổi giận làm anh không vui ',
+    btnYes: 'Anh sẽ không giận em <33',
+    btnNo: 'Anh sẽ giận em :((',
+    question:'Mình làm hòa với nhau nha anh? Bỏ qua hết mấy chuyện không vui nha',
+    btnReply: 'Gửi cho mintraxing ^^ ',
+    reply: '..........',
+    mess: 'Anh biết anh sẽ không có giận em đâu 🥰. Yêu thương anh nhiều nhiều 😘😘',
+    messDesc: 'Nhớ là lúc nào cũng phải cười vui vẻ với em đấy nhó .',
+    btnAccept: '^^',
+    
